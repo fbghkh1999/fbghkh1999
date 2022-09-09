@@ -62,20 +62,24 @@
     <h3 id="-nbsp-tech-stack">🛠 &nbsp;Tech Stack</h3>
     <p>
       <img
-        src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white"
-        alt="Go"
-      />
-      <img
         src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
         alt="Python"
       />
-      <img
-        src="https://img.shields.io/badge/c++-%23777BB4.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white"
-        alt="C++"
+       <img
+        src="https://img.shields.io/badge/matlab-%23777BB4.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white"
+        alt="matlab"
       />
-      <img
-        src="https://img.shields.io/badge/scala-6DA55F?style=for-the-badge&amp;logo=scala&amp;logoColor=white"
-        alt="Scala"
+       <img
+        src="https://img.shields.io/badge/pytorch-%23323335.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=%23F7DF1E"
+        alt="pytorch"
+      />
+        <img
+        src="https://img.shields.io/badge/scikitlearn-blue.svg?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=%23F7DF1E"
+        alt="scikitlearn"
+      />
+       <img
+        src="https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&amp;logo=java&amp;logoColor=%23F7DF1E"
+        alt="c++"
       />
       <img
         src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&amp;logo=java&amp;logoColor=%23F7DF1E"
@@ -84,30 +88,22 @@
     </p>
     <p>
       <img
-        src="https://img.shields.io/badge/ml-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white"
-        alt="Redis"
-      />
-      <img
-        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"
-        alt="MongoDB"
-      />
-      <img
         src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"
         alt="Postgres"
+      />
+      <img
+        src="https://img.shields.io/badge/kafka-red.svg?style=for-the-badge&amp;logo=kafka&amp;logoColor=white"
+        alt="kafka"
       />
     </p>
     <p>
       <img
-        src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white"
-        alt="Kubernetes"
+        src="https://img.shields.io/badge/spark-%23326ce5.svg?style=for-the-badge&amp;logo=spark&amp;logoColor=white"
+        alt="spark"
       />
       <img
         src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
         alt="Docker"
-      />
-      <img
-        src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white"
-        alt="Nginx"
       />
       <img
         src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white"

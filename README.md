@@ -29,7 +29,7 @@
       <li>
         <p>
           I'm a <strong>DataScientist</strong> with
-          <strong>+2 years</strong> of experience in
+          <strong>+3 years</strong> of experience in
           <strong>engaging with data analyze them</strong>,
           <strong>machine learning and deep learning</strong>,
           <strong>data visualization</strong>, and
